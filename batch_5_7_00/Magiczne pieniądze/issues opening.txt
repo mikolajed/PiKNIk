@@ -1,0 +1,2 @@
+When GitHub fails to open this file go to
+https://nbviewer.org/github/mikolajed/PiKNIk/blob/main/batch_5_7_00/Magiczne%20pienia%CC%A8dze/arbitra%C5%BC.ipynb
